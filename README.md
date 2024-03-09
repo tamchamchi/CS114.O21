@@ -29,12 +29,14 @@
 ### 1.LẬP TRÌNH PYTHON
 
 <a name ="colab"></a>
+
 - **Assignment 1**: Làm quen với Python
 - **Assignment 2**: Tiếp tục làm quen với Python
+- **Assignment 3**: Ừ thì search
+
 ### 2.COLAB ASSSIGNMENTS
 
 <a name ="QT"></a>
-
 
 ### 3.QT IN CLASS
 
@@ -45,6 +47,7 @@
 - **Buổi 2**
   - Machine Learning là gì?
   - Machine Learning vs Traditional Programming
+
 ## GIẢNG VIÊN HƯỚNG DẪN
 
 <a name="giangvien"></a>
