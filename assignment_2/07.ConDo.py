@@ -1,25 +1,40 @@
 
-def XulyLeft (l, left):
-     i = 0
-     total = 0
-     count = 0
-     while i < len(left):
-          total+=left[i]
-          if total >= l:
-               count+=1
-               i-=1
-               total = 0
-          i+=1
-     if total > 0:
-          count+=1
-     return count
+# def XulyLeft (l, left):
+#      i = 0
+#      total = 0
+#      count = 0
+#      while i < len(left):
+#           total+=left[i]
+#           if total >= l:
+#                count+=1
+#                i-=1
+#                total = 0
+#           i+=1
+#      if total > 0:
+#           count+=1
+#      return count
 
-def XuLyRight(l, right):
+# def XuLyRight(l, right):
+#      i = 0
+#      total = 0
+#      count = 0
+#      while i < len(right):
+#           total+=right[i]
+#           if total >= l:
+#                count+=1
+#                i-=1
+#                total = 0
+#           i+=1
+#      if total > 0:
+#           count+=1
+#      return count
+
+def XacDinhSoChuyenCan(l,arr):
      i = 0
      total = 0
      count = 0
-     while i < len(right):
-          total+=right[i]
+     while i < len(arr):
+          total+=arr[i]
           if total >= l:
                count+=1
                i-=1
@@ -37,8 +52,8 @@ def TimSoChuyenDi(l,left,right):
      elif len(left) == 0:
           return (sum(right)//l + 1)*2
      else:
-          trip_left = XulyLeft(l,left)
-          trip_right = XuLyRight(l,right)
+          trip_left = XacDinhSoChuyenCan(l,left)
+          trip_right = XacDinhSoChuyenCan(l,right)
           if trip_left > trip_right:
                return trip_right * 2 + (trip_left-trip_right)*2-1
           if trip_left < trip_right:
