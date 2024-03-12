@@ -6,12 +6,17 @@ def TimViTri(array, number):
                map[array[i]] = i
           else:
                map[array[i]] = map.get(array[i],i)
-     while len(number) > 0:
-          if number[0] not in map:
+     # while len(number) > 0:
+     #      if number[0] not in map:
+     #           print(-1)
+     #      else:
+     #           print(map[number[0]])
+     #      number.pop(0)
+     for i in range(len(number)):
+          if map.get(number[i],-1) == -1:
                print(-1)
           else:
-               print(map[number[0]])
-          number.pop(0)
+               print(map[number[i]])
 
 if __name__ == '__main__':
      n = int(sys.stdin.readline())
