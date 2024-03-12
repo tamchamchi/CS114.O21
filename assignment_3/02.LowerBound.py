@@ -2,10 +2,10 @@ import sys
 def TimViTri(array, number):
      map = {}
      for i in range(len(array)):
-          if map.get(array[i],-1) != -1:
+          if map.get(array[i],-1) == -1:
                map[array[i]] = i
-          else:
-               map[array[i]] = map.get(array[i],i)
+          # else:
+          #      map[array[i]] = map.get(array[i],i)
      while len(number) > 0:
           if number[0] not in map:
                print(-1)
