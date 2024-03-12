@@ -25,6 +25,7 @@ def Primes():
                ans.append(i)
      return ans
 def isSpecial(n):
+     List_prime = Primes()
      i = 0
      while List_prime[i] * List_prime[i] <= n:
           while n % List_prime[i] == 0:
@@ -47,7 +48,6 @@ def TimSoCapKhoa(l,r):
      return ans
 
 l,r = list(map(int,input().split()))
-List_prime = Primes()
 print(TimSoCapKhoa(l,r))
 
 # fix phần phân tích thừa số nguyên tố, kiểm ra khi xét len() ko thay đổi
