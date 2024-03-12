@@ -18,6 +18,8 @@ def TimViTri_2(array, number):
 if __name__ == '__main__':
      n = int(sys.stdin.readline())
      array = list(map(int,sys.stdin.readline().strip().split()))
+     array = sorted(array)
      m = int(sys.stdin.readline())
      number = list(map(int,sys.stdin.readline().strip().split()))
      TimViTri_1(array, number)
+# /usr/bin/time python3 01.TimViTri.py < test.txt > null.txt
