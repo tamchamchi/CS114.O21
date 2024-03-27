@@ -40,7 +40,7 @@
 <a name ="QT"></a>
 
 
-- **Assignment 1**: <a style="text-decoration: none" href='https://colab.research.google.com/drive/18QzdvMbSxb89Wy-PJ8jJG1MeA5OifnGI#scrollTo=CdUPo6oXFI0b'>DigitClassification.</a>
+- **Assignment 1**: <a href='https://colab.research.google.com/drive/18QzdvMbSxb89Wy-PJ8jJG1MeA5OifnGI#scrollTo=CdUPo6oXFI0b'>DigitClassification.</a>
 
 ### 3.QT IN CLASS
 
