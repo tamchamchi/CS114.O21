@@ -3,8 +3,9 @@ def CalculateTotalDamage(skil_laund_time,BaseDamage,BounsDamage,TimeExists):
      TotalDamage += BaseDamage * len(skil_laund_time)
      TotalDamage += BounsDamage * (len(skil_laund_time) * (len(skil_laund_time) - 1) / 2)
      i = len(skil_laund_time) - 1
+     count = 0
      while skil_laund_time[i] - TimeExists >= skil_laund_time[0]:
-          count = 0
+          # count = 0
           # for x in skil_laund_time:
           #      if x < skil_laund_time[i] - TimeExists:
           #           count+=1
@@ -17,7 +18,6 @@ def CalculateTotalDamage(skil_laund_time,BaseDamage,BounsDamage,TimeExists):
           TotalDamage -= count*BounsDamage
           i-=1
      return int(TotalDamage)
-
 
 if __name__ == '__main__':
      n = int(input())
