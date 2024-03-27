@@ -30,13 +30,16 @@
 
 <a name ="colab"></a>
 
-- **Assignment 1**: Làm quen với Python
-- **Assignment 2**: Tiếp tục làm quen với Python
-- **Assignment 3**: Ừ thì search
+- **Assignment 1**: Làm quen với Python.
+- **Assignment 2**: Tiếp tục làm quen với Python.
+- **Assignment 3**: Ừ thì search.
+- **Assignment 4**: Giờ là sort... và list.
 
 ### 2.COLAB ASSSIGNMENTS
 
 <a name ="QT"></a>
+
+- **Assignment 1**: DigitClassification.
 
 ### 3.QT IN CLASS
 
@@ -47,6 +50,14 @@
 - **Buổi 2**
   - Machine Learning là gì?
   - Machine Learning vs Traditional Programming
+- **Buổi 3**
+  - Khi nào sử dụng Machine Learning?
+  - Đặc điểm của Traditional Programming và Machine Learning.
+  - Các khái niệm: Supervised Learning, Unsupervised Learning, Data, Classification, Regression, Cluster,...
+- **Buổi 4**
+  - Thực hạnh Wecode.
+- **Buổi 5**
+  - Thực hiện bài toán nhận biết chữ viết tay.
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 
