@@ -55,7 +55,7 @@
   - Đặc điểm của Traditional Programming và Machine Learning.
   - Các khái niệm: Supervised Learning, Unsupervised Learning, Data, Classification, Regression, Cluster,...
 - **Buổi 4**
-  - Thực hạnh Wecode.
+  - Thực hành Wecode.
 - **Buổi 5**
   - Thực hiện bài toán nhận biết chữ viết tay.
 
