@@ -13,7 +13,7 @@
 - Nêu giải pháp.
 - Thực hiện chạy lại model sau khi tiền xử lý
 
-## Thực hiện test trên tập dữ liệu của nhóm:
+## THỰC HIỆN TEST TRÊN TẬP DỮ LIỆU CỦA NHÓM:
 - Tập dữ liệu test: 120 bức ảnh
 - Sau khi thực hiện chạy trên tập dữ liệu của nhóm thì độ chính xác của model rất thấp: **15,8%** <br>
 - Trong khi thực hiện tập dữ liệu cũ thì lại có độ chính xác rất cao: **>98,5%** 
