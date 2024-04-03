@@ -1,0 +1,1 @@
+<h1 algin="center"><b>Digit Classification</b></h1> 
