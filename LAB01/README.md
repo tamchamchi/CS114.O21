@@ -15,8 +15,8 @@
 
 ## Thực hiện test trên tập dữ liệu của nhóm:
 - Tập dữ liệu test: 120 bức ảnh
-- Sau khi thực hiện chạy trên tập dữ liệu của nhóm thì độ chính xác của model rất thấp: *15,8%* <br>
-- Trong khi thực hiện tập dữ liệu cũ thì lại có độ chính xác rất cao: *>98,5%* 
+- Sau khi thực hiện chạy trên tập dữ liệu của nhóm thì độ chính xác của model rất thấp: **15,8%** <br>
+- Trong khi thực hiện tập dữ liệu cũ thì lại có độ chính xác rất cao: **>98,5%** 
 **=>** Thế là chúng ta có thể kết luận rằng model này không hiệu quả với tập dữ liệu thức tế? <br>
 **!Chưa thể kết luận:** Vì tập dữ liệu của chúng ta chưa qua xử lý. 
 
@@ -30,12 +30,12 @@
      - *Nền chứa các chi tiết không cần thiết* 
 
 ## GIẢI PHÁP:
-- 1. Thay đổi màu sắc ảnh sáng trắng đen: Sử dụng phương pháp ngưỡng hóa (thresholding).
-- 2. Chụp ảnh trong điều kiện ánh sáng thích hợp.
-- 3. Sử dụng các nét chữ đậm hơn.
-- 4. Sử dụng màu mực và giấy có độ tương phản cao như: mực đen - giấy trăng.
-- 5. Mua máy ảnh mới có độ phân giải camera lớn hơn.
-- 6. Sử dụng giấy trơn để viết. <br>
+- Thay đổi màu sắc ảnh sáng trắng đen: Sử dụng phương pháp ngưỡng hóa (thresholding).
+- Chụp ảnh trong điều kiện ánh sáng thích hợp.
+- Sử dụng các nét chữ đậm hơn.
+- Sử dụng màu mực và giấy có độ tương phản cao như: mực đen - giấy trăng.
+- Mua máy ảnh mới có độ phân giải camera lớn hơn.
+- Sử dụng giấy trơn để viết. <br>
 => Độ chính xác tăng:  **73.33%**
 
 
