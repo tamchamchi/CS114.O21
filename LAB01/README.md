@@ -36,7 +36,7 @@
 - Sử dụng màu mực và giấy có độ tương phản cao như: mực đen - giấy trăng.
 - Mua máy ảnh mới có độ phân giải camera lớn hơn.
 - Sử dụng giấy trơn để viết. <br>
-=> Độ chính xác tăng:  **73.33%**
+=> Độ chính xác tăng:  **75.83%**
 
 
 
