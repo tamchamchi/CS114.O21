@@ -1,5 +1,5 @@
-<h1 algin="center"><b>DIGIT CLASSIFICATION/b></h1> 
-## THÀNH VIÊN NHÓM
+<h1 align="center"><b>DIGIT CLASSIFICATION</b></h1>
+## THÀNH VIÊN NHÓM: <br>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22520054   | Nguyễn Duy Tâm Anh |(https://github.com/tamchamchi)          |22520054@gm.uit.edu.vn   |
