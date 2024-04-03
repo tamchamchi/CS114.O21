@@ -3,15 +3,15 @@
 ## THÀNH VIÊN NHÓM: <br>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 22520054   | Nguyễn Duy Tâm Anh |(https://github.com/tamchamchi)          |22520054@gm.uit.edu.vn   |
-| 2      | 22521322     | Trần Văn Thân       |(https://github.com/vanthan04)|22521322@gm.uit.edu.vn   |
-| 3      | 22521626     | Nguyễn Mạnh Tường          |(https://github.com/greatwall2704)              |22521626@gm.uit.edu.vn   |
+| 1      | 22520054   | Nguyễn Duy Tâm Anh |https://github.com/tamchamchi          |22520054@gm.uit.edu.vn   |
+| 2      | 22521322     | Trần Văn Thân       |https://github.com/vanthan04|22521322@gm.uit.edu.vn   |
+| 3      | 22521626     | Nguyễn Mạnh Tường          |https://github.com/greatwall2704              |22521626@gm.uit.edu.vn   |
 
 ## TRÌNH BÀY VẤN ĐỀ:
-- 1. Thực hiện test trên tập dữ liệu của nhóm.
-- 2. Tìm ra nguyên nhân tại sao hiệu xuất lại thấp.
-- 3. Nêu giải pháp.
-- 4. Thực hiện chạy lại model sau khi tiền xử lý
+- Thực hiện test trên tập dữ liệu của nhóm.
+- Tìm ra nguyên nhân tại sao hiệu xuất lại thấp.
+- Nêu giải pháp.
+- Thực hiện chạy lại model sau khi tiền xử lý
 
 ## Thực hiện test trên tập dữ liệu của nhóm:
 - Tập dữ liệu test: 120 bức ảnh
@@ -21,8 +21,8 @@
 **!Chưa thể kết luận:** Vì tập dữ liệu của chúng ta chưa qua xử lý. 
 
 ## NGUYÊN NHÂN:
-- 1. **Ảnh màu (RGB)**: Việc xử lý ảnh màu sẽ không hiệu quả vì model được huấn luyện trên ảnh **trắng-đen (binary)**.
-- 2. **Chất lượng hình ảnh**: Có nhiều nguyên nhân ảnh hưởng:
+- **Ảnh màu (RGB)**: Việc xử lý ảnh màu sẽ không hiệu quả vì model được huấn luyện trên ảnh **trắng-đen (binary)**.
+- **Chất lượng hình ảnh**: Có nhiều nguyên nhân ảnh hưởng:
      - *Ánh sáng* 
      - *Nét chữ* 
      - *Độ phân giải của ống kính camera*
