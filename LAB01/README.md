@@ -16,7 +16,7 @@
 ## THỰC HIỆN TEST TRÊN TẬP DỮ LIỆU CỦA NHÓM:
 - Tập dữ liệu test: 120 bức ảnh
 - Sau khi thực hiện chạy trên tập dữ liệu của nhóm thì độ chính xác của model rất thấp: **15,8%** <br>
-- Trong khi thực hiện tập dữ liệu cũ thì lại có độ chính xác rất cao: **>98,5%** 
+- Trong khi thực hiện tập dữ liệu cũ thì lại có độ chính xác rất cao: **>98,5%**<br>
 **=>** Thế là chúng ta có thể kết luận rằng model này không hiệu quả với tập dữ liệu thức tế? <br>
 **!Chưa thể kết luận:** Vì tập dữ liệu của chúng ta chưa qua xử lý. 
 
