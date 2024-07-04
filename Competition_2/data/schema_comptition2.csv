@@ -1,0 +1,13 @@
+features;descriptions
+username;id của sinh viên đã được hash.
+nums_assignment;Số lượng assignment đã làm.
+nums_problem;Số lượng problem đã làm.
+nums_submission;Số lần nộp bài của 1 sinh viên.
+pre_scores_sum;Tổng số điểm mà sinh viên nộp bài có điểm.
+pre_scores_mean;Trung bình số điểm mà sinh viên nhận được khi nộp bài.
+nums_problem_success;Số lần nộp bài đạt điểm tuyệt đối.
+compilation_error_count;Số lần nộp bài có lỗi.
+month_day;Số lượng ngày đã tham gia làm bài tập.
+problem_success_rate;Tỉ lệ nộp bài đặt điểm tuyệt đối trên tổng số lần nộp.
+total_score_success;Tổng số điểm khi nộp bài đặt được điểm tuyệt đối.
+submission_frequency;Tần suất nộp bài của sinh viên
