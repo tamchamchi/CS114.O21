@@ -12,6 +12,7 @@
 - [Giới thiệu bản thân](#gioithiebanthan)
 - [Quá trình môn học](#quatrinhmonhoc)
 - [Giáo viên hướng dẫn](#giaovienhuongdan)
+- [Thành viên nhóm](#thanhvien)
 
 ## GIỚI THIỆU BẢN THÂN
 
@@ -65,6 +66,13 @@
   - Tư duy Machine Learning
   - Machine Learning Workflow
 
+## THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+| STT    | MSSV          | Họ và Tên              | Email                   |
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:
+| 1      | 22520054      | Nguyễn Duy Tâm Anh |22520054@gm.uit.edu.vn   |
+| 2      | 22521322      | Trần Văn Thân        |22521322@gm.uit.edu.vn   |
+| 3      | 19522450      | Nguyễn Mạnh Tường        |22521626@gm.uit.edu.vn   |
 ## GIẢNG VIÊN HƯỚNG DẪN
 
 <a name="giangvien"></a>
