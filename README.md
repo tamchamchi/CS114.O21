@@ -41,7 +41,9 @@
 <a name ="QT"></a>
 
 
-- **Assignment 1**: <a href='https://colab.research.google.com/drive/12k1bQm0BUKKzcmB50VhcgTMn5SPv51mb'>DigitClassification.</a>
+- **Competition 1**: <a href='https://colab.research.google.com/drive/12k1bQm0BUKKzcmB50VhcgTMn5SPv51mb'>DigitClassification.</a>
+- **Competition 2**: <a href='https://colab.research.google.com/drive/1S5xHPWl93meiQ1MwGEfR_mEJKn7gDBSR?usp=sharing'>Dự đoán điểm IT001.</a>
+- **Competition 3**: <a href='https://colab.research.google.com/drive/1c90uuqTyvC6T7NHfXRsoDpQqpCRmtwDK?usp=sharing'>Motocycle Classification.</a>
 
 ### 3.QT IN CLASS
 
